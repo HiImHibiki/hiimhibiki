@@ -3,7 +3,7 @@
 
 <h3 align="center">Mario Rufisanto</h3>
   <p align="center">
-    An undergraduate cyber security student <b><i><s>who's a degenerate anime enjoyer</s></i></b> passionate about web/android development technologies
+    An undergraduate cyber security student <b><i><s>who's a degenerate anime enjoyer</s></i></b> passionate about web & mobile development technologies
     <br />
     <br />
     <a target="_blank" href="mailto:mario.rufisanto@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
