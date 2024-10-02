@@ -3,7 +3,7 @@
 
 <h3 align="center">Mario Rufisanto</h3>
   <p align="center">
-    An undergraduate cyber security student <b><i><s>who's a degenerate anime enjoyer</s></i></b> passionate about web & mobile development technologies
+    WAH!
     <br />
     <br />
     <a target="_blank" href="mailto:mario.rufisanto@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -48,9 +48,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Learning**
+#### Learning
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Certificate
+
+<div>
+  <img src="images/bscp.png" alt="Logo" style="width:150px; margin-right:5px">
+  <img src="images/capen.png" alt="Logo" style="width:150px">
+</div>
